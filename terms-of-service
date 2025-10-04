@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Daily Dollars Lab</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        h2 {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 2rem;
+        }
+        li {
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <!-- Header Section -->
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="text-2xl font-bold text-gray-900">
+                <a href="clickengine.html">Daily Dollars Lab</a>
+            </div>
+            <a href="clickengine.html" class="bg-indigo-600 text-white font-bold py-2 px-6 rounded-full hover:bg-indigo-700">Back to Review</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 py-12 md:py-16">
+        <div class="max-w-4xl mx-auto bg-white p-8 md:p-12 rounded-lg shadow-lg">
+            <h1 class="text-4xl font-extrabold text-gray-900 mb-6">Terms and Conditions</h1>
+            <p class="text-gray-600 mb-6">Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern <a href="https://dailydollarslab.com/" class="text-indigo-600 hover:underline">https://dailydollarslab.com/</a>'s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.</p>
+            <p class="text-gray-600">The term <a href="https://dailydollarslab.com/" class="text-indigo-600 hover:underline">https://dailydollarslab.com/</a>‘ or ‘us’ or ‘we’ refers to the owner of the website. The term ‘you’ refers to the user or viewer of our website.</p>
+
+            <h2 class="text-2xl font-bold text-gray-800">The use of this website is subject to the following terms of use:</h2>
+            <ul class="text-gray-600 mt-4">
+                <li>The content of the pages of this website is for your general information and use only. It is subject to change without notice.</li>
+                <li>Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.</li>
+                <li>Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements.</li>
+                <li>This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.</li>
+                <li>All trademarks reproduced in this website, which are not the property of, or licensed to the operator, are acknowledged on the website.</li>
+                <li>Unauthorized use of this website may give rise to a claim for damages and/or be a criminal offense.</li>
+                <li>From time to time, this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).</li>
+            </ul>
+        </div>
+    </main>
+    
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-8 mt-16">
+        <div class="container mx-auto px-6 text-center">
+             <p>Copyright <a href="https://dailydollarslab.com/" class="text-indigo-400 hover:underline">https://dailydollarslab.com/</a>, All rights reserved.</p>
+             <p class="mt-2">Unauthorized duplication or publication of any materials from this Site is expressly prohibited.</p>
+             <div class="mt-4">
+                <a href="privacy-policy.html" class="text-sm text-gray-400 hover:text-white mx-2">Privacy Policy</a>
+                <span class="text-gray-500">|</span>
+                <a href="terms-of-service.html" class="text-sm text-gray-400 hover:text-white mx-2">Terms of Service</a>
+                <span class="text-gray-500">|</span>
+                <a href="earning-disclaimer.html" class="text-sm text-gray-400 hover:text-white mx-2">Earning Disclaimer</a>
+            </div>
+        </div>
+    </footer>
+    
+</body>
+</html>
